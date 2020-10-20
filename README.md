@@ -1,6 +1,6 @@
 # Pregled-AvtoNeta
 
-V projektni nalogi bom analziral ponudbo vseh avtomobilov na avtonetu-u.
+V projektni nalogi bom analziral ponudbo vseh avtomobilov na avtonetu.
 
 vir:
 https://www.avto.net/
