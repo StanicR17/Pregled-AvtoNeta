@@ -1,28 +1,23 @@
-# Pregled-AvtoNeta
+# Pregled Avtoneta
 
-V projektni nalogi bom analziral ponudbo vseh avtomobilov na avtonetu.
+## Rok Stanič, programiranje 1.
 
-vir:
-https://www.avto.net/
+V projektni nalogi bom analiziral podatke, ki sem jih pridobil na spletni strani https://www.avto.net/.
 
-Za vsak avto bom zajel:
-* rabljeno/novo
-* datum prve registracije
-* leto proizvodnje
-* prevoženi kilometri
-* datum veljavnosti tehničnega pregleda
-* motor
-* gorivo
-* barva zunanjosti
-* barva notranjosti
-* cena
+Za vsak avto sem pridobil podatek o:
 * Znamka
 * Tip
+* Leto proizvodnje
+* Leto prve registracije
+* Starost (novo, rabljeno, itd)
+* Menjalnik
+* Stevilo vrat
+* Gorivo
+* Prevoženi kilometri
+* Cena
+* Konjske moči, velikost motorja.
 
-Pogledal si bom povezave med:
-
-* Starostjo in ceno
-* Znamko in ceno
-* Motorjem in znamko
-* Datum prve registracije in kilometri
-* Najbolj pogoste barvne kombinacije (notranjost / zunanjost)
+V analizi se bom dotaknil treh področji.
+###  1. Največje in najmanjše vrednosti
+###  2. Porazdelitev avtomobilov po različnih podatkih
+###  3. Korelacije med vrednostmi 
